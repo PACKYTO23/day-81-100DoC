@@ -5,3 +5,4 @@ Day 81 - Advanced - Capstone Project - Predict House Prices
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (25/09/2024); update tomorrow.
+    Finished practice (26/09/2024); updated.
